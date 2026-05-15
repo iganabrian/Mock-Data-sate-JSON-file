@@ -1,7 +1,8 @@
-# Importing python request 
-Import requests importing pandas 
+# Importing python request  
 
 ```python
+### import python request 
+import requests 
 
 ### import pandas library
 import pandas as pd
